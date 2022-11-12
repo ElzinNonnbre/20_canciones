@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://www.teahub.io/photos/full/33-331687_band-bass-death-and-metal-hd-4k-wallpaper.jpg);
+    background-size: cover;
+}
+
+.PerreoIntenso {
+    font-family: 'Metal Mania', cursive;
+    color: #CF0A0A;
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+}
+
+.CabeceoIntenso {
+    font-family: 'New Rocker', cursive;
+    color: #DC5F00;
+    font-size: 3rem;
+}
