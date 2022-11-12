@@ -9,10 +9,18 @@ body {
     background-color: #000000;
     display: flex;
     justify-content: center;
+    text-shadow: 0.1em 0.1em 0.2em;
 }
 
 .CabeceoIntenso {
     font-family: 'New Rocker', cursive;
     color: #DC5F00;
     font-size: 3rem;
+}
+
+.ListadoChingon {
+    font-family: 'Metal', cursive;
+    color: #CF0A0A;
+    font-size: 2em;
+    text-shadow: 0.1em 0.1em 0.2em
 }
