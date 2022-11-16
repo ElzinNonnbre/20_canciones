@@ -24,3 +24,14 @@ body {
     font-size: 2em;
     text-shadow: 0.1em 0.1em 0.2em
 }
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: #000000;
+    color: #CF0A0A;
+    text-shadow: 0.1em 0.1em 0.2em;
+}
