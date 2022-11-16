@@ -3,6 +3,11 @@ body {
     background-size: cover;
 }
 
+.nuevobody {
+    background-image: url(https://wallpapercave.com/wp/wp3011170.jpg);
+    background-size: cover;
+}
+
 .PerreoIntenso {
     font-family: 'Metal Mania', cursive;
     color: #CF0A0A;
@@ -34,9 +39,4 @@ button {
     background-color: #000000;
     color: #CF0A0A;
     text-shadow: 0.1em 0.1em 0.2em;
-}
-
-.nuevobody {
-    background-image: url(https://wallpapercave.com/wp/wp3011170.jpg);
-    background-size: cover;
 }
