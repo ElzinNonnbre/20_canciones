@@ -35,4 +35,8 @@ button {
     color: #CF0A0A;
     text-shadow: 0.1em 0.1em 0.2em;
 }
-.nuevobody{background-image: url(https://wallpaper.dog/large/10944265.jpg);}
+
+.nuevobody {
+    background-image: url(https://wallpapercave.com/wp/wp3011170.jpg);
+    background-size: cover;
+}
