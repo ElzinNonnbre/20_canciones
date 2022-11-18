@@ -4,7 +4,7 @@ body {
 }
 
 .nuevobody {
-    background-image: url(https://wallpapercave.com/wp/wp3011170.jpg);
+    background-image: url(https://images.alphacoders.com/474/474398.jpg);
     background-size: cover;
 }
 
@@ -39,4 +39,41 @@ button {
     background-color: #000000;
     color: #CF0A0A;
     text-shadow: 0.1em 0.1em 0.2em;
+}
+
+.blanco {
+    color: #F4F4F2;
+    font-family: 'Metal Mania', cursive;
+    text-shadow: 0.1em 0.1em 0.2em;
+}
+
+.medioblanco {
+    color: #E8E8E8;
+    font-family: 'Metal', cursive;
+    font-size: 2em;
+    border: 1px;
+    text-align: center;
+    text-shadow: 0.1em 0.1em 0.2em;
+}
+
+.blancox {
+    color: #CF0A0A;
+    font-family: 'Metal Mania', cursive;
+    font-size: 3em;
+    text-shadow: 0.1em 0.1em 0.2em;
+}
+
+.table {
+    border-collapse: separate;
+    width: 100%;
+    height: 100%;
+}
+
+.table td:hover {
+    color: #000000;
+    background-color: #F4F4F2;
+}
+
+button {
+    font-size: 3rem;
 }
